@@ -1,0 +1,9 @@
+body {
+    background: url('https://source.unsplash.com/1920x1080/?hearts') no-repeat center center/cover;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #F1A7C2; /* Это светло-розовый цвет текста */
+    padding: 50px;
+    height: 10000px;
+    overflow-x: hidden;
+}
